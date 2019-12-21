@@ -17,6 +17,7 @@ public class Button extends JButton implements Controllable{
 		this.initialize();
 		this.create();
 		this.refresh();
+		
 	}
 
 	protected void initialize() {
